@@ -1,0 +1,27 @@
+[
+    {
+        "role":"Postdoctoral researcher",
+        "company":"Erasmus MC, Department of Hematology",
+        "summary":"Conducted research on genetics and epigenetics of leukemia",
+        "range":"Feb 2023 - Present"
+    },
+    {
+        "role":"Doctoral researcher",
+        "company":"Erasmus MC, Department of Hematology",
+        "summary":"- Conducted research on genetics and epigenetics of leukemia \n- Acquired fundamental skills for scientific research \n- Wrote several research articles and reviews published in reputable journals",
+        "range":"Oct 2017 - Jan 2023"
+    },
+    {
+        "role":"Bioinformatician - research assistant",
+        "company":"Erasmus MC, Department of Hematology",
+        "summary":"- Performed bioinformatics analyses of various sequencing projects in the department \n- Implemented pipelines (mostly in bash) for the analysis of sequencing data",
+        "range":"Sep 2016 - Sep 2017"
+    },
+    {
+        "role":"Project Manager, Health Department",
+        "company":"Anaxomics Biotech",
+        "summary":"Management of biotechnology R+D projects both at national and international level.",
+        "range":"Sep 2012 - May 2015"
+    }
+    
+]

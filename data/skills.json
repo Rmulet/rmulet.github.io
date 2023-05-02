@@ -1,0 +1,23 @@
+[
+  {
+      "grouping":"Programming languages",
+      "skills":[ "R","python","bash","perl"]
+  },
+  {
+    "grouping":"Biology data types",
+    "skills":[ "DNA sequencing (variant calling)","ChIP-seq / CUT&RUN","ATAC-seq","3C technologies (Hi-C, 4C)","Methylation arrays","Single cell data"]
+  },
+  {
+    "grouping":"Research-related skills" ,
+    "skills":[ "Excellent writing skills","Experience presenting in scientific conferences","Good team player"]
+  },
+  {
+    "grouping":"Data science experience",
+    "skills":[ "Data visualization","Machine learning","Predictive modeling"]
+  },
+  {
+      "grouping":"Other computational skills",
+      "skills":[ "Linux",{"name":"SQL databases","icon":"database"},"MS Office suite","Illustrator/Inkscape"]
+  }
+
+]

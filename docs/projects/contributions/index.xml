@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source Contributions on Roger Mulet</title>
+    <link>https://rmulet.github.io/projects/contributions.html</link>
+    <description>Recent content in Open Source Contributions on Roger Mulet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 Jan 2020 16:49:15 +0000</lastBuildDate><atom:link href="https://rmulet.github.io/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://rmulet.github.io/projects/contributions/schema-org.html</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      
+      <guid>https://rmulet.github.io/projects/contributions/schema-org.html</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+  </channel>
+</rss>

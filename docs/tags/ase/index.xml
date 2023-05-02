@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ASE on Roger Mulet</title>
+    <link>https://rmulet.github.io/tags/ase.html</link>
+    <description>Recent content in ASE on Roger Mulet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rmulet.github.io/tags/ase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Allele-specific expression of GATA2 due to epigenetic dysregulation in CEBPA double-mutant AML </title>
+      <link>https://rmulet.github.io/publications/blood2021.html</link>
+      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmulet.github.io/publications/blood2021.html</guid>
+      <description>Transcriptional deregulation is a central event in the development of acute myeloid leukemia (AML). To identify potential disturbances in gene regulation, we conducted an unbiased screen of allele-specific expression (ASE) in 209 AML cases. The gene encoding GATA binding protein 2 (GATA2) displayed ASE more often than any other myeloid- or cancer-related gene. GATA2 ASE was strongly associated with CEBPA double mutations (DMs), with 95% of cases presenting GATA2 ASE. In CEBPA DM AML with GATA2 mutations, the mutated allele was preferentially expressed.</description>
+    </item>
+    
+  </channel>
+</rss>

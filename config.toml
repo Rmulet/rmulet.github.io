@@ -1,0 +1,54 @@
+title = "Roger Mulet"
+baseURL = "https://rmulet.github.io/"
+theme = "hugo-resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+canonifyURLs = true
+uglyurls = true
+publishDir = "docs"
+
+[params]
+address = "Bioinformatician"
+email = "PhD"
+favicon = "/favicon.ico"
+firstName = "Roger"
+lastName = "Mulet-Lazaro"
+phone = "(+31) 06 456 53 804"
+profileImage = "img/profile_photo.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = true
+showCertifications = false
+showQr = true
+showSkills = true
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123457-01"
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/rogermulet/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/Rmulet"
+name = "GitHub"
+
+[[params.handles]]
+link = "https://twitter.com/RogerMulet"
+name = "Twitter"
+
+[[params.handles]]
+link = "https://scholar.google.com/citations?user=An4zMA0AAAAJ&hl=en"
+name = "Google Scholar"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

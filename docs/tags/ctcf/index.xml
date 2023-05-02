@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTCF on Roger Mulet</title>
+    <link>https://rmulet.github.io/tags/ctcf.html</link>
+    <description>Recent content in CTCF on Roger Mulet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rmulet.github.io/tags/ctcf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The leukemic oncogene EVI1 hijacks a MYC super-enhancer by CTCF-facilitated loops</title>
+      <link>https://rmulet.github.io/publications/ctcf.html</link>
+      <pubDate>Tue, 28 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmulet.github.io/publications/ctcf.html</guid>
+      <description>Acute myeloid leukemia (AML) with inv(3)/t(3;3)(q21q26) is a distinct World Health Organization recognized entity, characterized by its aggressive course and poor prognosis. In this subtype of AML, the translocation of a GATA2 enhancer (3q21) to MECOM (3q26) results in overexpression of the MECOM isoform EVI1 and monoallelic expression of GATA2 from the unaffected allele. The full-length MECOM transcript, MDS1-EVI1, is not expressed as the result of the 3q26 rearrangement. Besides the classical inv(3)/t(3;3), a number of other 3q26/MECOM rearrangements with poor treatment response have been reported in AML.</description>
+    </item>
+    
+  </channel>
+</rss>
