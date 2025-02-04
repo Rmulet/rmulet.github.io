@@ -3,7 +3,7 @@ title: "Atypical 3q26/MECOM rearrangements genocopy inv(3)/t(3;3) in acute myelo
 date: 2020-07-09
 pubtype: "Paper"
 featured: true
-description: "Sequencing of AML patients with 3q26 aberrations identifies common aberrations"
+description: "Sequencing of AML patients with 3q26 aberrations identifies common mechanisms driving EVI1 overexpression"
 tags: ["AML","Epigenetics","EVI1","Enhancers","DNA sequencing","Translocations"]
 image: "/img/atypical3q26.png"
 link: "https://ashpublications.org/blood/article/136/2/224/454178/Atypical-3q26-MECOM-rearrangements-genocopy-inv-3"

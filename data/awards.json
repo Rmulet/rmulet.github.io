@@ -1,0 +1,30 @@
+[
+	{
+		"title":"Jaap Steenbergen Stipendium",
+		"issuer": "Dutch Hematology Organization (Nederlandse Vereniging voor Hematologie)",
+		"date":"01/2024",
+		"description":"Best PhD thesis in the field of hematology published in 2023 in the Netherlands",
+		"link": "https://hematologienederland.nl/over-nvvh/nvvh-prijzen/"
+
+	},
+
+	{
+		"title":"Computational Biology Training in Hematology (CBTH)",
+		"issuer": "European Hematology Association (EHA)",
+		"date":"04/2024",
+		"description":"CBTH provides early-career researchers aiming to specialize in computational and quantitative biology aspects of hematology with a unique, year-long training and mentoring experience by top-tier faculty. The program is fully funded by EHA and offered to a select list of applicants.",
+		"link": "https://ehaweb.org/research/research-trainings/eha-emblebi-computational-biology-training-in-hematology-2/winners-of-cbth/"
+
+	},
+
+	{
+		"title":"ASH Abstract Achievement Award",
+		"issuer": "American Society of Hematology (ASH)",
+		"date":"12/2024",
+		"description":"2024 ASH Abstract Achievement Award for the abstract titled 'Transcriptional Profiling Directs the Classification of Mixed Phenotype Acute Leukemias into AML, B-ALL or T-ALL'",
+		"link": "https://www.hematology.org/awards/award-recipients/abstract-achievement/2024"
+
+	}
+
+
+]

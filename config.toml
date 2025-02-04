@@ -25,6 +25,8 @@ showPublications = true
 showCertifications = false
 showQr = true
 showSkills = true
+showSocializations = true
+sections = ["skills","publications","experience","education","awards","blog"]
 
 [params.google]
 
