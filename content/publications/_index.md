@@ -15,4 +15,4 @@ This page represents the landing page for "publications" section. It is also sho
 
 \-->
 
-A collection of articles, presentations or talks. For a complete list of publications, please use [Google Scholar](https://scholar.google.com/citations?user=An4zMA0AAAAJ&hl=en).
+For a complete list of publications, please use [Google Scholar](https://scholar.google.com/citations?user=An4zMA0AAAAJ&hl=en). You can also download my PhD thesis [here](/THESIS_Roger_Mulet.pdf).

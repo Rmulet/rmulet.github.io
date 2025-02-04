@@ -8,6 +8,33 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 10 Feb 2018 18:56:13 -0500</lastBuildDate><atom:link href="https://rmulet.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Epigenetic alterations affecting hematopoietic regulatory networks as drivers of mixed myeloid/lymphoid leukemia</title>
+      <link>https://rmulet.github.io/publications/natcom2024.html</link>
+      <pubDate>Sun, 07 Jul 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmulet.github.io/publications/natcom2024.html</guid>
+      <description>Leukemias with ambiguous lineage comprise several loosely defined entities, often without a clear mechanistic basis. Here, we extensively profile the epigenome and transcriptome of a subgroup of such leukemias with CpG Island Methylator Phenotype. These leukemias exhibit comparable hybrid myeloid/lymphoid epigenetic landscapes, yet heterogeneous genetic alterations, suggesting they are defined by their shared epigenetic profile rather than common genetic lesions. Gene expression enrichment reveals similarity with early T-cell precursor acute lymphoblastic leukemia and a lymphoid progenitor cell of origin.</description>
+    </item>
+    
+    <item>
+      <title>From Genotype to Phenotype: How Enhancers Control Gene Expression and Cell Identity in Hematopoiesis</title>
+      <link>https://rmulet.github.io/publications/reviewenhancers2023.html</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmulet.github.io/publications/reviewenhancers2023.html</guid>
+      <description>Blood comprises a wide array of specialized cells, all of which share the same genetic information and ultimately derive from the same precursor, the hematopoietic stem cell (HSC). This diversity of phenotypes is underpinned by unique transcriptional programs gradually acquired in the process known as hematopoiesis. Spatiotemporal regulation of gene expression depends on many factors, but critical among them are enhancers—sequences of DNA that bind transcription factors and increase transcription of genes under their control.</description>
+    </item>
+    
+    <item>
+      <title> Induced cell-autonomous neutropenia systemically perturbs hematopoiesis in Cebpa enhancer-null mice </title>
+      <link>https://rmulet.github.io/publications/bloodadvances2022.html</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmulet.github.io/publications/bloodadvances2022.html</guid>
+      <description>The transcription factor C/EBPa initiates the neutrophil gene expression program in the bone marrow (BM). Knockouts of the Cebpa gene or its +37kb enhancer in mice show 2 major findings: (1) neutropenia in BM and blood; (2) decrease in long-term hematopoietic stem cell (LT-HSC) numbers. Whether the latter finding is cell-autonomous (intrinsic) to the LT-HSCs or an extrinsic event exerted on the stem cell compartment remained an open question. Flow cytometric analysis of the Cebpa +37kb enhancer knockout model revealed that the reduction in LT-HSC numbers observed was proportional to the degree of neutropenia.</description>
+    </item>
+    
+    <item>
       <title>Allele-specific expression of GATA2 due to epigenetic dysregulation in CEBPA double-mutant AML </title>
       <link>https://rmulet.github.io/publications/blood2021.html</link>
       <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>

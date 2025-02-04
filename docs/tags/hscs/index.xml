@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HSCs on Roger Mulet</title>
+    <link>https://rmulet.github.io/tags/hscs.html</link>
+    <description>Recent content in HSCs on Roger Mulet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://rmulet.github.io/tags/hscs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> Induced cell-autonomous neutropenia systemically perturbs hematopoiesis in Cebpa enhancer-null mice </title>
+      <link>https://rmulet.github.io/publications/bloodadvances2022.html</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmulet.github.io/publications/bloodadvances2022.html</guid>
+      <description>The transcription factor C/EBPa initiates the neutrophil gene expression program in the bone marrow (BM). Knockouts of the Cebpa gene or its +37kb enhancer in mice show 2 major findings: (1) neutropenia in BM and blood; (2) decrease in long-term hematopoietic stem cell (LT-HSC) numbers. Whether the latter finding is cell-autonomous (intrinsic) to the LT-HSCs or an extrinsic event exerted on the stem cell compartment remained an open question. Flow cytometric analysis of the Cebpa +37kb enhancer knockout model revealed that the reduction in LT-HSC numbers observed was proportional to the degree of neutropenia.</description>
+    </item>
+    
+  </channel>
+</rss>

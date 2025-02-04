@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transcription on Roger Mulet</title>
+    <link>https://rmulet.github.io/tags/transcription.html</link>
+    <description>Recent content in Transcription on Roger Mulet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://rmulet.github.io/tags/transcription/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From Genotype to Phenotype: How Enhancers Control Gene Expression and Cell Identity in Hematopoiesis</title>
+      <link>https://rmulet.github.io/publications/reviewenhancers2023.html</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://rmulet.github.io/publications/reviewenhancers2023.html</guid>
+      <description>Blood comprises a wide array of specialized cells, all of which share the same genetic information and ultimately derive from the same precursor, the hematopoietic stem cell (HSC). This diversity of phenotypes is underpinned by unique transcriptional programs gradually acquired in the process known as hematopoiesis. Spatiotemporal regulation of gene expression depends on many factors, but critical among them are enhancers—sequences of DNA that bind transcription factors and increase transcription of genes under their control.</description>
+    </item>
+    
+  </channel>
+</rss>
